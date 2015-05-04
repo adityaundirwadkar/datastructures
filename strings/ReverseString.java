@@ -94,7 +94,7 @@ public class ReverseString {
 	}
 	
 	public static void main(String[] args) {
-		ReverseString newReverseString = new ReverseString("copy");
+		ReverseString newReverseString = new ReverseString("i ekil siht margorp yrev hcum");
 		
 		newReverseString.reverseExtraMemory(' ');
 		newReverseString.reverseRecursion(' ');
