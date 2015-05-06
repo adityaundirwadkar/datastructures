@@ -1,10 +1,10 @@
 package others;
 import java.util.Scanner;
 
-public class SudokuVerifyer {
+public class SudokuVerifier {
 	/* Problem: Given a string of 81 integers, verify if the numbers represented in a 9x9 grid is a valid sudoku or not.
 	*/
-	public SudokuVerifyer() {
+	public SudokuVerifier() {
 		// TODO Auto-generated constructor stub
 	}
 	
